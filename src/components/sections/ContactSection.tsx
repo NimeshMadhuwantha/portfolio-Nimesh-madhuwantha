@@ -43,7 +43,7 @@ export function ContactSection() {
             </div>
 
             <GlassCard className="rounded-3xl p-8">
-              <form className="space-y-6" onSubmit={(e) => e.preventDefault()}>
+              <form className="space-y-6" action="#" method="post">
                 <label className="block space-y-2">
                   <span className="text-xs font-black uppercase tracking-[0.2em] text-slate-500">
                     Your Name

@@ -29,8 +29,8 @@ export function AboutSection() {
 
           <GlassCard className="mt-8 rounded-2xl border-l-4 border-l-cyan-300 p-5">
             <p className="text-sm italic text-slate-200">
-              "I am deeply committed to my work, investing creativity and
-              precision into every project to craft memorable experiences."
+              &quot;I am deeply committed to my work, investing creativity and
+              precision into every project to craft memorable experiences.&quot;
             </p>
           </GlassCard>
 

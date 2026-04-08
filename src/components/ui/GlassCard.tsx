@@ -1,7 +1,8 @@
 import { cn } from "@/lib/cn";
+import type { ReactNode } from "react";
 
 type GlassCardProps = {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
 };
 

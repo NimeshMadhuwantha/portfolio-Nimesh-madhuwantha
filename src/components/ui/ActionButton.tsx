@@ -1,8 +1,9 @@
 import { cn } from "@/lib/cn";
+import type { ReactNode } from "react";
 
 type ActionButtonProps = {
   href?: string;
-  children: React.ReactNode;
+  children: ReactNode;
   variant?: "primary" | "outline" | "ghost";
   className?: string;
 };
